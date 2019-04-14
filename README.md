@@ -7,5 +7,4 @@
 ```
 chmod +wx crowdsurfer.sh
 ./crowdsurfer.sh
-
 ```
