@@ -1,5 +1,6 @@
 # Crowdsurfer
 
+> Simple way to check crowd density
 
 ## Installation
 
