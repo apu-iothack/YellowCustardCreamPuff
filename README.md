@@ -1,2 +1,10 @@
 # Crowdsurfer
-## By YellowCustardCreamPuff
+
+
+## Installation
+
+```
+chmod +wx crowdsurfer.sh
+./crowdsurfer.sh
+
+```
